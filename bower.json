@@ -1,0 +1,21 @@
+{
+  "name": "express-dynamic-content",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Bernat Moragas <bmoragas@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
